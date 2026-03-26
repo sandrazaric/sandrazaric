@@ -20,14 +20,14 @@ const experiences = [
   {
     period: "2019 — 2023",
     title: "Frontend Developer",
-    company: "Smart Home Solutions",
+    company: "ObloLiving",
     location: "Novi Sad, Serbia",
     description: "Control and monitoring application for smart home devices with real-time state synchronization.",
     contributions: [
       "Integrated new smart devices into the system by adapting UI components to different device capabilities",
       "Collaborated closely with backend and IoT teams to ensure correct handling of device states and synchronization",
       "Translated Figma designs into reusable and responsive UI components",
-      "Maintained the REST API backend using Nest.js for seamless frontend-backend communication",
+      "Maintained the REST API backend using Node.js for seamless frontend-backend communication",
       "Implemented WebSocket communication to enable real-time data updates",
     ],
     technologies: ["React.js", "Angular.js", "WebSocket", "REST APIs"],
@@ -35,18 +35,18 @@ const experiences = [
   },
   {
     period: "2018 — 2019",
-    title: "Junior Developer",
-    company: "Mindful Technologies",
+    title: "Software Developer Intern",
+    company: "ObloLiving",
     location: "Novi Sad, Serbia",
-    description: "A fully functional e-commerce platform featuring user accounts, product catalogs, shopping carts, and secure online payment processing.",
+    description: "Worked on enhancing an existing smart home system by implementing Active Zone Control (AZC) features, enabling more efficient and customizable energy management across different areas of a home.",
     contributions: [
-      "Designed and developed the overall system architecture, ensuring scalability and maintainability",
-      "Implemented user authentication and authorization mechanisms to protect sensitive user data",
-      "Collaborated with designers to create an intuitive and visually appealing user interface",
+      "Developed and integrated Active Zone Control (AZC) functionality into an existing smart home platform",
+      "Improved system efficiency by enabling independent control of heating and energy usage per zone",
+      "Collaborated with senior developers to understand and extend a complex, real-world codebase",
     ],
-    technologies: ["JavaScript", "MySQL"],
+    technologies: ["Angular.js", "JavaScript", "MySQL"],
     link: "#",
-  },
+}
 ]
 
 export function Experience() {
