@@ -30,7 +30,7 @@ const experiences = [
       "Maintained the REST API backend using Nest.js for seamless frontend-backend communication",
       "Implemented WebSocket communication to enable real-time data updates",
     ],
-    technologies: ["React.js", "Angular.js", "Nest.js", "WebSocket", "REST APIs"],
+    technologies: ["React.js", "Angular.js", "WebSocket", "REST APIs"],
     link: "#",
   },
   {
@@ -44,7 +44,7 @@ const experiences = [
       "Implemented user authentication and authorization mechanisms to protect sensitive user data",
       "Collaborated with designers to create an intuitive and visually appealing user interface",
     ],
-    technologies: ["PHP", "JavaScript", "MySQL"],
+    technologies: ["JavaScript", "MySQL"],
     link: "#",
   },
 ]
