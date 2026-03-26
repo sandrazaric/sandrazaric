@@ -9,7 +9,6 @@ const skillCategories = [
       "JavaScript (ES6+)",
       "HTML5 / CSS3",
       "Vuex / Redux",
-      "Tailwind CSS",
     ],
   },
   {
@@ -27,11 +26,8 @@ const skillCategories = [
   {
     title: "Backend & Database",
     skills: [
-      "Nest.js",
       "Node.js",
-      "PHP",
       "MySQL",
-      "PostgreSQL",
     ],
   },
   {
